@@ -13,3 +13,9 @@
 #enterButton {
 	background-color: rgb(129, 178, 252);
 }
+#pic {
+	margin: 65px;
+	height: 40vh;
+	width: 60vw;
+	float: left;
+}
